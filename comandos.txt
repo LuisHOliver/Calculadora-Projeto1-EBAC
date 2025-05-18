@@ -1,0 +1,4 @@
+chmod +x calculadora.sh
+chmod 644 calculadora.sh
+./calculadora.sh
+
